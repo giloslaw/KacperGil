@@ -1,0 +1,39 @@
+html, body {
+    height: 100% ;
+    background-color: lightgreen;
+    
+}
+
+.tytul{
+    background-color: green;
+    width: auto;
+    height: 10%;
+    font-size: 80px;
+    margin: 20px;
+    padding: 40px;
+    text-align: center;
+    color: white;
+}
+.s{
+    height: 100%;
+    display: grid;
+    background-color: greenyellow; 
+    grid-template-columns: 50% 50%;
+}
+
+.st{
+    background-color: green; 
+    display: grid;
+    grid-template-rows: 25% 25% 25% 25%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.m{
+        background-color: greenyellow; 
+        grid-template-rows: 25% 25% 25% 25%;
+        display: grid;
+}
+.stopka{
+    background-color: yellow;
+}
