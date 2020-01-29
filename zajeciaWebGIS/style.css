@@ -33,7 +33,11 @@ html, body {
         background-color: greenyellow; 
         grid-template-rows: 25% 25% 25% 25%;
         display: grid;
+        height: 1400px;
 }
 .stopka{
     background-color: yellow;
+}
+#map1{
+    height: 100%;
 }
